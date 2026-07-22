@@ -1,0 +1,21 @@
+site_name: HAITEC
+theme:
+  name: material
+  language: zh # 汉化界面
+  palette:
+    primary: indigo # 主题色（可让学生自己改）
+    accent: blue
+  features:
+    - navigation.tabs # 顶部导航栏
+    - content.code.copy # 代码一键复制
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences # 支持代码块
+  - attr_list # 方便控制图片大小：![alt](img.png){ width="300" }
+
+plugins:
+  - search
