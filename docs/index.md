@@ -1,6 +1,6 @@
 # Home
 
-## Hello, I'm Cheng Pan
+## Hello, I'm Zhanglei
 ## Welcome to HAITEC
 <img src="images/HAI.png" width="50%" height="50%" align="middle" />   
 
