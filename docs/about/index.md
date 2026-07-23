@@ -1,6 +1,6 @@
 # About me
 
-<img src="../images/Peter.jpg">  
+<img src="../images/Peter.jpg" width="30%" align="middle">  
 
 Father of two kids.
 Background in online game design, tourism planning and marketing consulting. Currently working on projects about AI-powered intelligent entertainment & AI study tour.
