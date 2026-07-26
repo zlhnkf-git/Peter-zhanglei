@@ -5,6 +5,7 @@ Software setup and basic operation learning: Installed GitHub, VS Code, Fusion 3
 
 **Problems Encountered:**
 Failed to synchronize local folders with GitHub when configuring connection in Visual Studio Code.
+
 **Solution:**
 I described all error details to AI assistant Doubao, followed the provided troubleshooting steps, and finally resolved the synchronization issue.
 ![W1-1](../images/W1-1.png){: width="50%" style="display:block;margin:0 auto;"}
